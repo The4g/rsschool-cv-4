@@ -35,3 +35,8 @@ li pre {
   position: relative;
   font-size: 15px;
 }
+
+time{
+  margin-left: 40px;
+  color: rgba(0, 0, 0, 0.5)
+}
